@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import ConditionalRenderingIndex from "@/components/conditional/ConditionalRenderingIndex.vue";
+import ListRenderingIndex from "@/components/lists/ListRenderingIndex.vue";
 </script>
 
 <template>
   <div>
-    <ConditionalRenderingIndex/>
+    <ListRenderingIndex/>
   </div>
 </template>
