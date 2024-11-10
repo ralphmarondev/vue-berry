@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import ClassAndStyleBindingIndex from "@/components/bindings/ClassAndStyleBindingIndex.vue";
+import ConditionalRenderingIndex from "@/components/conditional/ConditionalRenderingIndex.vue";
 </script>
 
 <template>
   <div>
-    <ClassAndStyleBindingIndex/>
+    <ConditionalRenderingIndex/>
   </div>
 </template>
