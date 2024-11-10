@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import ReactivityIndex from "@/components/reactivity/ReactivityIndex.vue";
+import ComputedIndex from "@/components/computed/ComputedIndex.vue";
 </script>
 
 <template>
   <div>
-    <ReactivityIndex/>
+    <ComputedIndex/>
   </div>
 </template>
