@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import ComputedIndex from "@/components/computed/ComputedIndex.vue";
+import ClassAndStyleBindingIndex from "@/components/bindings/ClassAndStyleBindingIndex.vue";
 </script>
 
 <template>
   <div>
-    <ComputedIndex/>
+    <ClassAndStyleBindingIndex/>
   </div>
 </template>
