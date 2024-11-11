@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import ListRenderingIndex from "@/components/lists/ListRenderingIndex.vue";
+import WatchersIndex from "@/components/watchers/WatchersIndex.vue";
 </script>
 
 <template>
   <div>
-    <ListRenderingIndex/>
+    <WatchersIndex/>
   </div>
 </template>
